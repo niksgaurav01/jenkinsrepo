@@ -6,3 +6,4 @@ class Hello
 	}
 
 }
+checks for git jenkins integretion
